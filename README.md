@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://github.com/pkziinn10/pkziinn10/raw/main/assets/banner.jpeg" alt="Pedro Kauan" width="100%" />
+  <img src="https://github.com/pkziinn10/pkziinn10/assets/banner.jpeg" alt="Pedro Kauan" width="100%" />
   <h1>Hi there, I'm Pedro Kauan 👋</h1>
   <p>🌱 Passionate about coding and always eager to learn new technologies.</p>
   <p>🔭 Currently working on exciting projects in the tech world.</p>
