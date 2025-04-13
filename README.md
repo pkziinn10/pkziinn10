@@ -1,12 +1,8 @@
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pkziinn10/pkziinn10/main/assets/banner.jpeg" alt="Pedro Kauan" width="80%" />
   <h1>Hi there, I'm Pedro Kauan 👋</h1>
   <p>🌱 Passionate about coding and always eager to learn new technologies.</p>
   <p>🔭 Currently working on exciting projects in the tech world.</p>
 </div>
 
-<!-- Technologies and Tools -->
 ## 🛠️ Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -24,29 +20,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 ![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkziinn10&show_icons=true&theme=radical)
 
-<!-- Top Languages -->
 ## 🗣️ Top Languages
 
 ![Your Username's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn10&layout=compact&theme=radical)
 
-<!-- Social Links -->
 ## 📬 Connect with Me
 
 - 📧 Email: pedrinhokauan824@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/pkziinn10)
 - [Instagram](https://www.instagram.com/pkziinn.10)
 
-<!-- Quote -->
 ## 💬 Inspirational Quote
 
 > "The only way to do great work is to love what you do." – Steve Jobs
 
-<!-- Footer -->
 <div align="center">
   <p>Thanks for visiting my profile! Let's build something amazing together. 🚀</p>
 </div>
