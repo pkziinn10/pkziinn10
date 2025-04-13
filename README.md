@@ -30,9 +30,9 @@
 
 ## 📬 Connect with Me
 
-- 📧 Email: pedrinhokauan824@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/pkziinn10)
-- [Instagram](https://www.instagram.com/pkziinn.10)
+- [![Gmail Badge](https://img.shields.io/badge/-pedrinhokauan824@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrinhokauan824@gmail.com)][Gmail]
+- [![Linkedin Badge](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pkziinn10/)][Linkedin]
+- [![Instagram Badge](https://img.shields.io/badge/-pkziinn.10-df234f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pkziinn.10/)][Instagram]
 
 ## 💬 Inspirational Quote
 
