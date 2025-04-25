@@ -27,10 +27,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn10&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🗣️ Top Languages
-
-![Your Username's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn10&layout=compact&theme=radical)
-
 ## 📬 Connect with Me
 
 <div align="center">
