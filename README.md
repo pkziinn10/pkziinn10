@@ -22,7 +22,10 @@
 
 ## 📊 GitHub Stats
 
-![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkziinn10&show_icons=true&theme=radical)
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pkziinn10&show_icons=true&theme=radical" alt="Pedro Kauan’s GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn10&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🗣️ Top Languages
 
@@ -30,9 +33,11 @@
 
 ## 📬 Connect with Me
 
-![Gmail Badge](https://img.shields.io/badge/-pedrinhokauan824@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrinhokauan824@gmail.com)
-![Linkedin Badge](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pkziinn10/)
-![Instagram Badge](https://img.shields.io/badge/-pkziinn.10-df234f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pkziinn.10/)
+<div align="center">
+  <a href="mailto:pedrinhokauan824@gmail.com"><img src="https://img.shields.io/badge/-pedrinhokauan824@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/pkziinn10/"><img src="https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/pkziinn.10/"><img src="https://img.shields.io/badge/-pkziinn.10-df234f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</div>
 
 ## 💬 Inspirational Quote
 
