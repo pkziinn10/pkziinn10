@@ -24,7 +24,7 @@
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pkziinn10&show_icons=true&theme=radical" alt="Pedro Kauan’s GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn10&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 📬 Connect with Me
