@@ -1,4 +1,4 @@
-  <h1>Hi there, I'm Pedro Kauan 👋</h1>
+  <h1>Whats up, I'm Pedro Kauan 👋</h1>
   <p>🌱 Passionate about coding and always eager to learn new technologies.</p>
   <p>🔭 Currently working on exciting projects in the tech world.</p>
 </div>
