@@ -30,7 +30,7 @@
 ## 📬 Connect with Me
 
 <div align="center">
-  <a href="mailto:pedrinhokauan824@gmail.com"><img src="https://img.shields.io/badge/-pedrinhokauan824@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:pedrokauan.developer@gmail.com"><img src="https://img.shields.io/badge/-pedrinhokauan824@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/pkziinn10/"><img src="https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/pkziinn.10/"><img src="https://img.shields.io/badge/-pkziinn.10-df234f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </div>
