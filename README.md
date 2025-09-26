@@ -29,7 +29,7 @@
 
 ## 🏅 Certificado — NVIDIA: Fundamentals of Deep Learning
 
-![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)((https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ))
+[![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ)
 
 ## 📬 Connect with Me
 
