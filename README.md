@@ -29,20 +29,19 @@
 
 ## 🏅 Certificado — NVIDIA: Fundamentals of Deep Learning
 
-[![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)((https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ))
-
-<p align="center">
-  <a href="(https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ)" title="Ver certificado (NVIDIA)">
-    <img src="RAW_IMG_URL" alt="Certificado NVIDIA - Fundamentals of Deep Learning" width="600" />
-  </a>
-</p>
+![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)((https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ))
 
 ## 📬 Connect with Me
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/)
-  [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail.com)
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pkziinn10/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pedrokauan.developer@gmail.com" title="Enviar e-mail">
+    <img src="https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ## 💬 Inspirational Quote
 
