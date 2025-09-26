@@ -19,7 +19,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-[![Certificado NVIDIA](assets/nvidia_cert.png)]((https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ))
+[![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)]([<URL_DO_CERTIFICADO>](https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ))
 
 
 ## 📊 GitHub Stats
@@ -32,8 +32,8 @@
 ## 📬 Connect with Me
 
 <div align="center">
-  <a [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail) /></a>
-  <a [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/) /></a>
+  [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail)
+  [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/) /></a>
   <a href="https://www.instagram.com/pkziinn.10/"><img src="https://img.shields.io/badge/-pkziinn.10-df234f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
