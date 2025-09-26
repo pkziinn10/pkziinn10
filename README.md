@@ -33,15 +33,9 @@
 
 ## 📬 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pkziinn10/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pedrokauan.developer@gmail.com" title="Enviar e-mail">
-    <img src="https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/)  
+[![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail.com)
+
 
 ## 💬 Inspirational Quote
 
