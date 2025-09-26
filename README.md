@@ -1,7 +1,7 @@
-  <h1>What's up, I'm Pedro Kauan 👋</h1>
-  <p>🌱 Passionate about coding and always eager to learn new technologies.</p>
-  <p>🔭 Currently working on exciting projects in the tech world.</p>
-</div>
+# What's up, I'm Pedro Kauan 👋
+
+🌱 Passionate about coding and always eager to learn new technologies.  
+🔭 Currently working on exciting projects in the tech world.
 
 ## 🛠️ Technologies & Tools
 
@@ -19,8 +19,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-[![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)]([<URL_DO_CERTIFICADO>](https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ))
-
 
 ## 📊 GitHub Stats
 
@@ -29,12 +27,21 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn10&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+## 🏅 Certificado — NVIDIA: Fundamentals of Deep Learning
+
+[![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)((https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ))
+
+<p align="center">
+  <a href="(https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ)" title="Ver certificado (NVIDIA)">
+    <img src="RAW_IMG_URL" alt="Certificado NVIDIA - Fundamentals of Deep Learning" width="600" />
+  </a>
+</p>
+
 ## 📬 Connect with Me
 
 <div align="center">
-  <a [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail)
-  <a [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/)
-  <a href="https://www.instagram.com/pkziinn.10/"><img src="https://img.shields.io/badge/-pkziinn.10-df234f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/)
+  [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail.com)
 </div>
 
 ## 💬 Inspirational Quote
