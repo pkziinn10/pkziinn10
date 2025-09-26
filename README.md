@@ -32,8 +32,8 @@
 ## 📬 Connect with Me
 
 <div align="center">
-  [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail)
-  [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/) /></a>
+  <a [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail)
+  <a [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/)
   <a href="https://www.instagram.com/pkziinn.10/"><img src="https://img.shields.io/badge/-pkziinn.10-df234f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
