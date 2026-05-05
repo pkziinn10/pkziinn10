@@ -1,9 +1,9 @@
-# What's up, I'm Pedro Kauan 👋
+# What's up, I'm Pedro Kauan 
 
-🌱 Passionate about coding and always eager to learn new technologies.  
-🔭 Currently working on exciting projects in the tech world.
+Passionate about coding and always eager to learn new technologies.  
+Currently working on exciting projects in the tech world.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-9b4f96?style=flat-square&logo=csharp)
@@ -20,24 +20,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkziinn10&layout=compact&theme=radical" alt="Top Languages" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pkziinn10&show_icons=true&theme=radical" alt="Pedro Kauan’s GitHub Stats" />
 </div>
 
-## 🏅 Certificado — NVIDIA: Fundamentals of Deep Learning
+## Certificado — NVIDIA: Fundamentals of Deep Learning
 
 [![NVIDIA - Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=h-QaJpUCTVy-2cNX_qFuKQ)
 
-## 📬 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-pkziinn10-0275b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkziinn10/)  
 [![Gmail](https://img.shields.io/badge/-pedrokauan.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrokauan.developer@gmail.com)
 
 
-## 💬 Inspirational Quote
+## Inspirational Quote
 
 > "The only way to do great work is to love what you do." – Steve Jobs
 
