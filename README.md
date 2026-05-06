@@ -42,5 +42,5 @@ Currently working on exciting projects in the tech world.
 > "The only way to do great work is to love what you do." – Steve Jobs
 
 <div align="center">
-  <p>Thanks for visiting my profile! Let's build something amazing together. 🚀</p>
+  <p>Thanks for visiting my profile! Let's build something amazing together. </p>
 </div>
