@@ -23,8 +23,6 @@ Também sou **Pesquisador e Engenheiro de Machine Learning no EngineLab**, parti
 
 Entre 2025 e 2026, ministrei atividades de monitoria nas disciplinas de **Inteligência Artificial e Banco de Dados** na Universidade Federal do Ceará.
 
-> A maior parte dos projetos profissionais em que atuo está armazenada em repositórios privados devido à confidencialidade das organizações parceiras. Os projetos públicos abaixo representam algumas das minhas principais áreas de atuação.
-
 ## Tecnologias e ferramentas
 
 ### Back-End
