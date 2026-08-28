@@ -73,47 +73,6 @@ Modelagem relacional · SQL · DDL · DML · joins · agregações · subconsult
 
 Docker · Git Flow · revisão de código · CI/CD · mensageria · armazenamento compatível com S3
 
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias e técnicas |
-|---|---|---|
-| [Previsão de faturamento em e-commerce](https://github.com/pkziinn10/ENIAC_2026) | Pipeline experimental sobre aproximadamente 1,07 milhão de transações, comparando modelos estatísticos, Machine Learning, Deep Learning e LLMs para previsão de séries temporais. | Python, XGBoost, CatBoost, LSTM, TCN, Optuna, SHAP e TimeSeriesSplit |
-| [Predição do uso de serviços médicos](https://github.com/pkziinn10/analyze-medical-services) | Pesquisa com dez classificadores para analisar e prever a utilização de serviços médicos por adultos com 50 anos ou mais. | Scikit-learn, aprendizagem sensível a custo, validação cruzada estratificada e Wilcoxon |
-| [API com Clean Architecture e DDD](https://github.com/pkziinn10/cleanArch) | API em Python organizada em Domain, Application, Presentation, Infrastructure e Main, com entidades, Value Objects e Aggregate Roots. | Python, Flask, SQLAlchemy, MySQL, Pytest e injeção de dependências |
-| [API em .NET com Clean Architecture](https://github.com/pkziinn10/Clean-Architecture-Dotnet) | Solução separada em API, Application, Domain, Persistence e Tests, com documentação e cobertura de testes. | .NET 8, ASP.NET Core, Entity Framework Core, SQLite, xUnit e Coverlet |
-| [Algoritmo de Christofides](https://github.com/pkziinn10/Christofides-Algorithm) | Implementação da aproximação 1,5 para o Problema do Caixeiro Viajante, com avaliação em diferentes instâncias TSPLIB. | Python, Prim, emparelhamento perfeito, Hierholzer e NetworkX |
-| [Predição de insuficiência cardíaca](https://github.com/pkziinn10/Heart-Failure) | Comparação de classificadores para predição de mortalidade em pacientes com insuficiência cardíaca. | Scikit-learn, XGBoost, NearMiss, validação cruzada e teste de Wilcoxon |
-
-## Experiência
-
-### LESC/UFC
-
-**Desenvolvedor Back-End Júnior — Bolsista FASTEF**
-
-- Desenvolvimento e manutenção de APIs e serviços backend para projetos de P&D&I.
-- Implementação de regras de negócio, integrações e persistência de dados.
-- Atuação em backends legados e atuais.
-- Aplicação de Clean Architecture, DDD, Clean Code e Design Patterns.
-- Utilização de .NET/C#, Python, FastAPI, Docker e bancos de dados relacionais.
-
-### EngineLab
-
-**Pesquisador e Engenheiro de Machine Learning**
-
-- Desenvolvimento de uma solução de apoio ao diagnóstico de escoliose.
-- Treinamento de modelos de visão computacional utilizando redes neurais convolucionais.
-- Aplicação de Transfer Learning e PyTorch Lightning.
-- Integração entre modelos de Machine Learning e aplicações backend.
-
-### Universidade Federal do Ceará
-
-**Monitor de Inteligência Artificial e Banco de Dados — 2025 a 2026**
-
-- Ministração de aulas teóricas e práticas.
-- Orientação e acompanhamento de projetos acadêmicos.
-- Ensino de Python, SQL, modelagem de dados e fundamentos de Machine Learning.
-- Conteúdos envolvendo pré-processamento, classificação, redes neurais e avaliação de modelos.
-
 ## Portfólio em destaque
 
 <div align="center">
