@@ -71,43 +71,6 @@ Modelagem relacional · SQL · DDL · DML · joins · agregações · subconsult
 
 Docker · Git Flow · revisão de código · CI/CD · mensageria · armazenamento compatível com S3
 
-## Portfólio em destaque
-
-<div align="center">
-
-<a href="https://github.com/pkziinn10/ENIAC_2026">
-  <img src="https://img.shields.io/badge/ENIAC_2026-Previsão_de_Séries_Temporais-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Projeto ENIAC 2026" />
-</a>
-
-<a href="https://github.com/pkziinn10/analyze-medical-services">
-  <img src="https://img.shields.io/badge/CBEB_2026-Machine_Learning_na_Saúde-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning aplicado à saúde" />
-</a>
-
-<a href="https://github.com/pkziinn10/Clean-Architecture-Dotnet">
-  <img src="https://img.shields.io/badge/.NET_8-Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Clean Architecture com .NET" />
-</a>
-
-<a href="https://github.com/pkziinn10/cleanArch">
-  <img src="https://img.shields.io/badge/Python-Clean_Architecture_e_DDD-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Clean Architecture e DDD com Python" />
-</a>
-
-<a href="https://github.com/pkziinn10/Christofides-Algorithm">
-  <img src="https://img.shields.io/badge/Algoritmos-Christofides_TSP-F7931E?style=for-the-badge&logo=python&logoColor=white" alt="Algoritmo de Christofides" />
-</a>
-
-</div>
-
-## Foco atual
-
-<div align="center">
-
-![Back-End](https://img.shields.io/badge/Back--End-.NET_e_Python-512BD4?style=for-the-badge)
-![Dados](https://img.shields.io/badge/Dados-Machine_Learning-3776AB?style=for-the-badge)
-![Pesquisa](https://img.shields.io/badge/Pesquisa-IA_aplicada_à_saúde-76B900?style=for-the-badge)
-![Arquitetura](https://img.shields.io/badge/Arquitetura-Clean_Architecture_e_DDD-CC2927?style=for-the-badge)
-
-</div>
-
 ## Formação
 
 **Bacharelado em Ciência da Computação — Universidade Federal do Ceará**
