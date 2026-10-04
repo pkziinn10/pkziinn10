@@ -15,7 +15,7 @@ Crateús, Ceará, Brasil
 
 Sou graduando em **Ciência da Computação pela Universidade Federal do Ceará**, com conclusão prevista para o segundo semestre de 2027.
 
-Atuo como **Desenvolvedor Back-End no LESC/UFC**, na condição de bolsista FASTEF, desenvolvendo APIs e serviços para projetos de P&D&I destinados a organizações parceiras, incluindo a Dataqore.
+Atuo como **Desenvolvedor Back-End no LESC/UFC**, na condição de bolsista FASTEF, desenvolvendo APIs e serviços para projetos de P&D&I destinados a organizações parceiras.
 
 Trabalho principalmente com **.NET/C#, Python, FastAPI, bancos de dados relacionais, Docker e arquitetura de software**, aplicando conceitos como Clean Architecture, Domain-Driven Design, SOLID, Clean Code e Design Patterns.
 
